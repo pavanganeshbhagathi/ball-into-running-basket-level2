@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    padding: 10px;
+}
+
+canvas {
+    margin: 0 auto;
+    border: 1px solid grey;
+}
+
+h3 {
+    text-align: center;
+    color: goldenrod;
+    background-color: gray;
+    border: 1px solid;
+    width: 200px;
+}
+
+h4 {
+    color: green;
+    text-align: end;
+}
+
+p {
+    text-align: end;
+    color: hotpink;
+}
